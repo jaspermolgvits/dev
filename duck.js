@@ -2,7 +2,11 @@ let shit = 42;
 for(i=0;i<10;i++) {
     	
 console.log()
-setInterval(
+setInterval(_=>{
+
+shit(thebed);
+
+},1000
     
 )
 
